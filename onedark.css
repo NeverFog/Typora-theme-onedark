@@ -2089,5 +2089,5 @@ kbd {
 .row.text-input select {
   width: 510px !important;
 }
-/*设置选中的背景颜色 */
-::selection { background-color: #d1ff79; }
+/*设置选中的背景颜色 gaohao */
+::selection { background-color: #d1ff79; color: #000000}
